@@ -1,0 +1,42 @@
+h1{
+    font-size: 80px;
+}
+
+/* . is classified as class = blue/// */
+.blue{
+    color: blue;
+}
+
+.red{
+    color: red;
+}
+
+
+/* id = # */
+#purple{
+    color: plum;
+}
+
+.alignLeft{
+    text-align: left;
+}
+
+.alignCenter{
+    text-align: center;
+}
+
+.alignRight{
+    text-align: right;
+}
+
+.white{
+    color: white;
+}
+
+.blackBackground{
+    background-color: black;
+}
+
+body{
+    background-color: aliceblue;
+}
